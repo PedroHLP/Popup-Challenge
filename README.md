@@ -11,7 +11,7 @@ yarn run dev
 abrir [http://localhost:3000](http://localhost:3000) no seu navegador
 
 
-Como pedido para colocar a Url do video apenas precisa de um pequeno trecho da url onde voce pode pegar na no youyube 
+Como pedido para colocar a Url do video apenas precisa de um pequeno trecho da url onde voce pode pegar na no Youtube 
 https://www.youtube.com/watch?v={H1q1nXLDjB8}&ab_channel=Rebelzize
 
 este aqui = H1q1nXLDjB8
