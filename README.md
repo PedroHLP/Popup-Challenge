@@ -20,3 +20,4 @@ este aqui = H1q1nXLDjB8
 
 Clicando em estatísticas para nerds no video na primeira opção aparece o id do video
 
+Espero que gostem e estou ansiso para trabalhar com voces, decidi fazer em Next pois não possuo grande conhecimento em Vue mas estarei disposto sim a aprender mais 
